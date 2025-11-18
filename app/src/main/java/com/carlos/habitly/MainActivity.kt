@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             HabitlyTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Habitly Goal Tracker",
+                        name = "Habitly - Goal Tracker and Smart Habit",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
