@@ -1,4 +1,4 @@
-package com.carlos.habitly
+package com.carlos.habitly.ui.screens
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
